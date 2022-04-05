@@ -83,6 +83,11 @@ gap: 2rem;
       font-family: var(--fuenteprincipal);
       color: var(--blanco);
       font-size: 3rem;
+      margin-right: 2rem;
+  }
+
+  .navegacion__enlace:last-of-type {
+  margin-right: 0;
   }
 
   .navegacion__enlace--activo,
